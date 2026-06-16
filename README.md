@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎓 Computer Science Student passionate about Software Development and Problem Solving.<br><br>💻 Currently building full-stack projects and improving my understanding of software architecture, system design, and real-world development workflows.<br><br>🚀 Interested in:<br><br>Software Engineering<br>Full Stack Development<br>Web & App Development<br>Open Source Contribution<br>AI-powered Applications<br><br>🛠️ Tech Stack: <br><br>Languages:<br>Python • JavaScript  • C • C++<br><br>Technologies & Tools:<br>React • Node.js • Express.js • PostgreSQL • Git • GitHub • REST APIs • Flutter<br><br>📫 Open to learning, collaborating, and contributing to impactful projects.
 
 
